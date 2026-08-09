@@ -1,4 +1,4 @@
-# 📄Description of a Medical Study (Analytical Report)
+# 📄 Description of a Medical Study (Analytical Report)
 
 ## Purpose and Context of the Study
 This study focuses on analyzing the quality of healthcare services, specifically on examining readmission rates. The main objective of the study is to statistically process and visualize the distribution of healthcare facilities based on their 30-day patient readmission rates.
@@ -33,14 +33,11 @@ The data is imported into a DataFrame using the pandas library after connecting 
 ### Statistical Analysis and Visualization (Exploratory Data Analysis)
 
 Using the NumPy library (np.histogram), the cleaned data is divided into 20 equal intervals (bins), after which the coordinates of the centers of these intervals are calculated to plot a trend line.  To visually present the results, a combined plot (12x6) is created using matplotlib.pyplot:
-
-The histogram (Bar Chart) displays the number of medical facilities in each interval; the bars are light blue (#87CEFA) with black outlines and 0.7 opacity. 
-
-The trend line (Dotted Line) shows the dynamics of the distribution frequency and is rendered as a solid pink line (#FF1493) with a thickness of 2.5 and round markers. 
+The histogram (`Bar Chart`) displays the number of medical facilities in each interval. 
 
 ## Chart Design 
 
-The chart is titled “Distribution of Facilities by Rehospitalization Rate (with a trend line).” The X-axis displays the 30-day readmission rate as a percentage: “30-day readmission rate (in percent, (%)).”  The Y-axis represents the “Number of healthcare facilities.” A legend has been added in the upper-right corner, along with a horizontal dotted grid to facilitate reading the values. 
+The chart is titled “Distribution of Facilities by Rehospitalization Rate (with a trend line).” The X-axis displays the 30-day readmission rate as a percentage: “30-day readmission rate (in percent, (%)).” The Y-axis represents the “Number of healthcare facilities.” A legend has been added in the upper-right corner, along with a horizontal dotted grid to facilitate reading the values. 
 
 ## Exporting Results (Output)
 
