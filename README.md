@@ -1,4 +1,4 @@
-📄 # Description of a Medical Study (Analytical Report)
+# 📄Description of a Medical Study (Analytical Report)
 
 ## Purpose and Context of the Study
 This study focuses on analyzing the quality of healthcare services, specifically on examining readmission rates. The main objective of the study is to statistically process and visualize the distribution of healthcare facilities based on their 30-day patient readmission rates.
