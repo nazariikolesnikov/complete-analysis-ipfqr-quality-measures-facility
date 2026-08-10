@@ -1,5 +1,7 @@
 # 📄 Analytical Report: Distribution of Healthcare Facilities by 30-Day Readmission Rate
 
+## Executive Summary
+
 The purpose of this analysis is to examine and visualize statistical indicators
 of 30-day readmission rates (IPFQR Quality Measures) among healthcare
 facilities to assess the overall quality of care and identify
