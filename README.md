@@ -14,15 +14,15 @@ The study identified the following key statistical indicators:
 * the arithmetic mean (Mean), which is 19.31% and reflects the overall
 average rate of readmissions in the sample.
 
-* The median (Median), which is 19.10%, is the middle value that divides the entire population of institutions exactly in half.
+* the median (Median), which is 19.10%, is the middle value that divides the entire population of institutions exactly in half.
 The closeness of the mean and median in our medical sample indicates a harmonious and balanced distribution of the data.
 
-Standard deviation (Std Dev), with a value of 2.51%, is a measure of the spread of values around the mean, which
+* standard deviation (Std Dev), with a value of 2.51%, is a measure of the spread of values around the mean, which
 indicates moderate variability among institutions.
 
-The interquartile range (IQR) indicates that 50% of all institutions in the study fall within a narrow and stable range from 17.60% (first quartile) to 20.80% (third quartile).
+*  the interquartile range (IQR) indicates that 50% of all institutions in the study fall within a narrow and stable range from 17.60% (first quartile) to 20.80% (third quartile).
 
-Distribution Structure and Key Findings (Based on the Histogram Results)
+## Distribution Structure and Key Findings (Based on the Histogram Results)
 
 The tallest bar in the histogram and the peak of the trend line clearly demonstrate that the largest group of hospitals (nearly 200 institutions) has a readmission rate in the range of 18%–19%. This range is the key “norm” or standard for most facilities in the sample.
 The graph exhibits pronounced symmetry with a gradual decline on both sides of the central peak, resembling a normal distribution. This indicates the stability of the system: most hospitals operate within predictable parameters.
