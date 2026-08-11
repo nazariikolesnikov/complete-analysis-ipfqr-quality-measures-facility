@@ -23,6 +23,8 @@ indicates moderate variability among institutions.
 
 <img width="5647" height="3707" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
 
+<img width="5647" height="3707" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility" />
+
 ## Distribution Structure and Key Findings (Based on the Histogram Results)
 
 The tallest bar in the histogram and the peak of the trend line clearly demonstrate that the largest group of hospitals (nearly 200 institutions) has a readmission rate in the range of 18%–19%. This range is the key “norm” or standard for most facilities in the sample. The graph exhibits pronounced symmetry with a gradual decline on both sides of the central peak, resembling a normal distribution. This indicates the stability of the system: most hospitals operate within predictable parameters. An analysis of extremes and anomalies shows that the lowest recorded rate is 13.00 %. The smooth, gentle tail on the left encompasses a small number of hospitals with the best results (low readmission rates).
