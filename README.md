@@ -19,9 +19,7 @@ indicates moderate variability among institutions.
 
 ## 📊 Visualizations
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/neural-networks-wine-collection/blob/main/Classification%20of%20Wines%20(Alcohol%20vs%20Flavanoids).png" />
-
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/neural-networks-wine-collection/blob/main/Correlation%20Matrix%20of%20Wine%20Collection%20Characteristics.png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Facilities%20by%20Rehospitalization%20Rate%20(with%20a%20trend%20line).png" />
 
 ## Distribution Structure and Key Findings (Based on the Histogram Results)
 
