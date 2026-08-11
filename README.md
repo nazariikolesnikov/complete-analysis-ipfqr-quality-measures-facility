@@ -28,7 +28,7 @@ The tallest bar in the histogram and the peak of the trend line clearly demonstr
 
 <img width="5647" height="3707" alt="Distribution of Healthcare Facilities by Rehospitalization Rate (Top-5 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Healthcare%20Facilities%20by%20Rehospitalization%20Rate%20(Top-5%20States).png" />
 
-<img width="5647" height="3707" alt="Multiple Regression Coefficients Impact On 30-Day Readmission Rate" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Multiple%20Regression%20Coefficients%20Impact%20On%2030-Day%20Readmission%20Rate.png" />
+<img width="5647" height="3707" alt="Multiple Regression Coefficients Impact On 30-Day Readmission Rate" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Healthcare%20Facilities%20by%20Rehospitalization%20Rate%20(Top-5%20States).png" />
 
 <img width="5647" height="3707" alt="Quality of USA Hospitals and Rehospitalization Rates (Focus On Facilities In Need Of Improvement)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Quality%20of%20USA%20Hospitals%20and%20Rehospitalization%20Rates%20(Focus%20On%20Facilities%20In%20Need%20Of%20Improvement).png" />
 
