@@ -17,8 +17,6 @@ indicates moderate variability among institutions.
 
 *  the interquartile range (IQR) indicates that 50% of all institutions in the study fall within a narrow and stable range from 17.60% (first quartile) to 20.80% (third quartile).
 
-## 📊 Visualizations
-
 <img width="5647" height="3107" alt="Distribution of Facilities by Rehospitalization Rate (with a trend line)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Facilities%20by%20Rehospitalization%20Rate%20(with%20a%20trend%20line).png" />
 
 <img width="5647" height="3707" alt="Distribution of Rehospitalization Rates (Top-12 States)" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
