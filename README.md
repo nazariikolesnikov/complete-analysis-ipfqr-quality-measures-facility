@@ -21,7 +21,7 @@ indicates moderate variability among institutions.
 
 <img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Facilities%20by%20Rehospitalization%20Rate%20(with%20a%20trend%20line).png" />
 
-<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/Distribution of Rehospitalization Rates (Top-12 States).png" />
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility/blob/main/Distribution%20of%20Rehospitalization%20Rates%20(Top-12%20States).png" />
 
 ## Distribution Structure and Key Findings (Based on the Histogram Results)
 
