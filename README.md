@@ -17,6 +17,14 @@ indicates moderate variability among institutions.
 
 *  the interquartile range (IQR) indicates that 50% of all institutions in the study fall within a narrow and stable range from 17.60% (first quartile) to 20.80% (third quartile).
 
+## 📊 Visualizations
+
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesist" src="https://github.com/nazariikolesnikov/neural-networks-wine-collection/blob/main/Classification%20of%20Wines%20(Alcohol%20vs%20Flavanoids).png" />
+
+<img width="5647" height="3107" alt="A/B Testing, Testing a Statistical Hypothesis" src="https://github.com/nazariikolesnikov/neural-networks-wine-collection/blob/main/Correlation%20Matrix%20of%20Wine%20Collection%20Characteristics.png" />
+
 ## Distribution Structure and Key Findings (Based on the Histogram Results)
 
 The tallest bar in the histogram and the peak of the trend line clearly demonstrate that the largest group of hospitals (nearly 200 institutions) has a readmission rate in the range of 18%–19%. This range is the key “norm” or standard for most facilities in the sample. The graph exhibits pronounced symmetry with a gradual decline on both sides of the central peak, resembling a normal distribution. This indicates the stability of the system: most hospitals operate within predictable parameters. An analysis of extremes and anomalies shows that the lowest recorded rate is 13.00 %. The smooth, gentle tail on the left encompasses a small number of hospitals with the best results (low readmission rates).
+
+
