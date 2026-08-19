@@ -10,8 +10,6 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-🖥️ Project Link: [Link](https://github.com/nazariikolesnikov/complete-analysis-ipfqr-quality-measures-facility)
-
 This report summarizes the key findings from a visual analysis of data on 30-day readmissions to U.S. healthcare facilities.
 
 ### Distribution of Facilities by Rehospitalization Rate (Combined Histogram with a Trend Line)
